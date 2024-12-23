@@ -1,2 +1,3 @@
-# Diwali-Sales-Analysis
-I developed a comprehensive project in Python where I used pandas, Matplotlib, and Seaborn libraries to analyze Diwali sales data.The project involved cleaning the data, performing exploratory analysis, and creating visualizations like bar charts to understand customer behavior, product trends, and regional sales patterns.
+# Diwali Sales Analysis Using Python
+## Project Objective
+To analyze sales data during the Diwali season, identify trends in customer demographics, top-performing products, and regions, and provide actionable insights for business decision-making.
