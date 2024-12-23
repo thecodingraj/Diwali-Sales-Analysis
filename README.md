@@ -28,7 +28,7 @@ To analyze sales data during the Diwali season, identify trends in customer demo
 - Food, Clothing, and Electronics were the most popular product categories during the Diwali season.
 - Married individuals, particularly women, exhibited higher purchasing power compared to singles.
 
-  ## Final Conclusion:
+## Final Conclusion:
   The analysis highlights that married women aged 26-35 years, particularly from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation, are the most active buyers. They predominantly purchased products from Food, Clothing, and Electronics categories. These insights can guide businesses in tailoring marketing strategies, optimizing inventory, and increasing sales for future festive seasons.
   
 
